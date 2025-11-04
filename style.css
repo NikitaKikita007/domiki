@@ -1,4 +1,50 @@
-body{
+body {
     margin: 0;
     padding: 0;
+}
+.main-contacts{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+}
+.BOX {
+    width: 350pX;
+    height: 400pX;
+    background-color: rgb(190, 190, 190);
+
+    border-radius: 6PX;
+    font-size: larger;
+}
+
+.BOX2{
+    width: 350px;
+    height: 400pX;
+    background-color: rgb(206, 206, 206);
+
+    border-radius: 6PX;
+}
+.h2{
+   
+    margin-left: 5px;
+    gap: 5px;
+}
+.f22{
+    width: 330px;
+    height: 100px;
+    margin-left: 5px;
+}
+.f35{
+    width: 330px;
+    height: 25px;
+
+    gap: 100px;
+    margin-left: 5px;
+}
+.b2{
+    width: 150px;
+    height: 30px;
+
+    background-color: darkorange;
+    border-radius: 6px;
+    margin-left: 5px;
 }
