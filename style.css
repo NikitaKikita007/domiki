@@ -1,4 +1,69 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(Roboto-VariableFont_wdth\,wght.ttf);
+}
 body{
     margin: 0;
     padding: 0;
+    font-family: "Roboto";
+}
+.header{
+    width: 1366px;
+    height: 136px;
+    background-color: #000000;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    margin: auto;
+}
+.logo{
+    display: flex;
+    gap: 21px;
+}
+.header-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    button{
+        background-color: rgba(255,255,255,0.22);
+        border: none;
+        width: 144px;
+        height: 46px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        color: white;
+    }
+}
+.header-contact-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.callback-button{
+    background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
+    padding: 13px 32px;
+    color: #000000;
+    box-shadow: 0px 3px 4px 0px #00000040;
+font-size: 16px;
+font-weight: 600;
+}
+.callback-number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.bold{
+    font-weight: 900;
+}
+.text-yellow{
+    color: #DDA046;
 }
