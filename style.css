@@ -2,3 +2,36 @@ body{
     margin: 0;
     padding: 0;
 }
+.blochok1{
+    width: 340px;
+    height: 476px;
+    background-color: rgb(171, 138, 138);
+    box-shadow: 10px 5px 5px red;
+    background: url(img/9ab27206bbc02c648b9fa07119fd6d672a86fc44.png) ;
+    background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+
+
+}
+.blochok2{
+     width: 340px;
+    height: 476px;
+    background-color: #DDA046;
+    box-shadow: 10px 5px 5px red;
+    background: url(img/);
+
+}
+.h2{
+    font-size: 32px;
+}
+.pictures{
+    width: 340px;
+    height: 248px;
+    display: flex;
+    flex-wrap: wrap;
+    background-position-y: top;
+}
+.card1{
+}
