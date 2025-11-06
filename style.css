@@ -4,22 +4,37 @@ body{
 }
 .mainblock{
     width: 1300px;
-    height: 600px;
+    height: 607px;
     background-color: aquamarine;
     background: url(img/image\ 5.png);
     margin: auto;
-    padding: 1px;
+    padding: 13px;
 }
 .text1{
     width: 650px;
-    height: 450px;
     color: aliceblue;
-    margin-top: 30px;
-    margin-left: 75px;
-    font-weight: 900;
+    margin-top: 20px;
+    margin-left: 70px;
+    font-weight: 900;   
     font-size: 62px;
 }
 .text2{
-    color: chocolate;
-    font-size:70px ;
+    color: rgb(255, 255, 255);
+    font-size:40px ;
+    font-weight: 300;
+    width: 650px;
+    margin-left: 70px;
+    
+}
+.text3{
+    width: 650px;
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 70px;
+    margin-top:25px;
+}
+.nomainblock{
+    width: 350px;
+    height: 120px;
+    color: rgb(84, 57, 57);
 }
