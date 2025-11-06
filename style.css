@@ -18,10 +18,52 @@ body{
 .blochok2{
      width: 340px;
     height: 476px;
-    background-color: #DDA046;
+    background-color: #d99633;
     box-shadow: 10px 5px 5px red;
-    background: url(img/);
-
+    background: url(img/dec882d3db167e5d344ae6ec8dbafce3fa4b9dd3.png);
+     background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.blochok3{
+     width: 340px;
+    height: 476px;
+    background-color: #d99633;
+    box-shadow: 10px 5px 5px red;
+    background: url(img/7b8c2c64111bce159f27b6a9ae3072d943c6d806.png);
+     background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.blochok4{
+     width: 340px;
+    height: 476px;
+    background-color: #d99633;
+    box-shadow: 10px 5px 5px red;
+    background: url(img/98b56d72dbfe5e32e47f119716c0f941bfb9a52a.png);
+     background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.blochok5{
+     width: 340px;
+    height: 476px;
+    background-color: #d99633;
+    box-shadow: 10px 5px 5px red;
+    background: url(img/23e83cca5ed59ba5f58a0d5301c93959dc79af04.png);
+     background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.blochok6{
+     width: 340px;
+    height: 476px;
+    background-color: #d99633;
+    box-shadow: 10px 5px 5px red;
+    background: url(img/f35c8072cc546fc85759ba415673f9f0a00e2f90.png);
+     background-size:contain ;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 .h2{
     font-size: 32px;
@@ -33,5 +75,32 @@ body{
     flex-wrap: wrap;
     background-position-y: top;
 }
-.card1{
+.domiki{
+   width: 1060px;
+   display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    gap:20px;
+
+}
+
+    .callback-button{
+    background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
+    padding: 13px 32px;
+    color: #000000;
+    box-shadow: 0px 3px 4px 0px #00000040;
+    width: 200px;
+    height: 46px;
+font-size: 16px;
+font-weight: 600;
+border:none;
+}
+.h1{
+    text-align: center;
+    margin-top:auto ;
+}
+.h2{
+    text-align: center;
+    margin-top:auto ;
 }
