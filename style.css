@@ -2,11 +2,19 @@ body {
     margin: 0;
     padding: 0;
 }
-.main-contacts{
+
+.main-contacts {
     justify-content: center;
     display: flex;
     gap: 30px;
+    background: url(Rectangle\ 81.svg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
 }
+
 .BOX {
     width: 350pX;
     height: 400pX;
@@ -16,35 +24,83 @@ body {
     font-size: larger;
 }
 
-.BOX2{
+.BOX2 {
     width: 350px;
     height: 400pX;
     background-color: rgb(206, 206, 206);
 
     border-radius: 6PX;
 }
-.h2{
-   
+
+.h2 {
+
     margin-left: 5px;
     gap: 5px;
 }
-.f22{
+
+.f22 {
     width: 330px;
     height: 100px;
     margin-left: 5px;
 }
-.f35{
+
+.f35 {
     width: 330px;
     height: 25px;
 
     gap: 100px;
     margin-left: 5px;
 }
-.b2{
+
+.b2 {
     width: 150px;
     height: 30px;
 
     background-color: darkorange;
     border-radius: 6px;
     margin-left: 5px;
+    background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
+    padding: 13px 32px;
+    color: #000000;
+    box-shadow: 0px 3px 4px 0px #00000040;
+    font-size: 16px;
+    font-weight: 600;
+    font-size: 8px;
+    
+}
+
+.BOX {
+    margin-top: 120px;
+}
+
+.BOX2 {
+    margin-top: 120px;
+}
+
+.vip {
+    margin-left: 20px;
+    font-size: 20px;
+}
+.c{
+    justify-content: center;
+    padding: 30px;
+    margin-top: -75px;
+}
+.z{
+    margin-top: 200px;
+}
+.CHIPI{
+    width: 150px;
+    height: 30px;
+
+    background-color: darkorange;
+    border-radius: 6px;
+    margin-left: 5px;
+    background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
+    padding: 13px 32px;
+    color: #000000;
+    box-shadow: 0px 3px 4px 0px #00000040;
+    font-size: 16px;
+    font-weight: 600;
+    font-size: 8px;
 }
