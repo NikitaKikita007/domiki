@@ -3,67 +3,81 @@ body{
     padding: 0;
 }
 .blochok1{
-    width: 340px;
-    height: 476px;
+    width: 300px;
+    height:  432px;
     background-color: rgb(171, 138, 138);
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 0px 0px 74px 0px #27110A29;;
     background: url(img/9ab27206bbc02c648b9fa07119fd6d672a86fc44.png) ;
     background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
     
 
 
 }
 .blochok2{
-     width: 340px;
-    height: 476px;
+     width: 300px;
+    height: 432px;
     background-color: #d99633;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 0px 0px 74px 0px #27110A29;;
     background: url(img/dec882d3db167e5d344ae6ec8dbafce3fa4b9dd3.png);
      background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
 }
 .blochok3{
-     width: 340px;
-    height: 476px;
+     width: 300px;
+    height: 432px;
     background-color: #d99633;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 0px 0px 74px 0px #27110A29;;
     background: url(img/7b8c2c64111bce159f27b6a9ae3072d943c6d806.png);
      background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
 }
 .blochok4{
-     width: 340px;
-    height: 476px;
+     width: 300px;
+    height: 432px;
     background-color: #d99633;
-    box-shadow: 10px 5px 5px red;
+box-shadow: 0px 0px 74px 0px #27110A29;
+
     background: url(img/98b56d72dbfe5e32e47f119716c0f941bfb9a52a.png);
      background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
 }
 .blochok5{
-     width: 340px;
-    height: 476px;
-    background-color: #d99633;
-    box-shadow: 10px 5px 5px red;
+     width: 300px;
+    height: 432px;
+    background-color: #000000;
+    box-shadow: 0px 0px 74px 0px #27110A29;;
     background: url(img/23e83cca5ed59ba5f58a0d5301c93959dc79af04.png);
      background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
 }
 .blochok6{
-     width: 340px;
-    height: 476px;
+     width: 300px;
+    height: 432px;
     background-color: #d99633;
-    box-shadow: 10px 5px 5px red;
+    box-shadow: 0px 0px 74px 0px #27110A29;;
     background: url(img/f35c8072cc546fc85759ba415673f9f0a00e2f90.png);
      background-size:contain ;
     background-position: bottom;
     background-repeat: no-repeat;
+    padding-left: 32px;
+    padding-top: 44px;
+    
 }
 .h2{
     font-size: 32px;
@@ -95,12 +109,65 @@ body{
 font-size: 16px;
 font-weight: 600;
 border:none;
+
 }
+
 .h1{
+    width: 700px;
     text-align: center;
-    margin-top:auto ;
+    margin:auto ;
+    font-size: 48px;
+}
+.h3{
+    width: 400px;
+      text-align: center;
+    margin:auto ;
+    font-size: 48px;
+
 }
 .h2{
     text-align: center;
     margin-top:auto ;
+     padding-left: 32px;
+    padding-top: 44px;
+}
+.blochok1 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 28px;
+
+
+}
+.blochok2 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 32px;
+
+
+}
+.blochok3 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 32px;
+     
+
+}
+.blochok4 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 32px;
+
+}
+.blochok5 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 32px;
+     
+}
+.blochok6 > h2{
+    height: 76px;
+    width: 241px;
+    font-size: 32px;
+   
+
 }
