@@ -2,23 +2,29 @@ body {
     margin: 0;
     padding: 0;
 }
-
-.main-contacts {
+.contacts{
     justify-content: center;
     display: flex;
-    gap: 30px;
+    gap: 60px;
+    margin-top: auto;
+}
+.main-contacts {
+
     background: url(Rectangle\ 81.svg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
     width: 100%;
-    height: 600px;
+    height: 700px;
+    
+    justify-content: center;
+    
 }
 
 .BOX {
     width: 350pX;
     height: 400pX;
-    background-color: rgb(190, 190, 190);
+    background-color: rgba(206, 206, 206, 0.613);
 
     border-radius: 6PX;
     font-size: larger;
@@ -27,7 +33,7 @@ body {
 .BOX2 {
     width: 350px;
     height: 400pX;
-    background-color: rgb(206, 206, 206);
+    background-color: rgba(206, 206, 206, 0.613);
 
     border-radius: 6PX;
 }
@@ -54,7 +60,7 @@ body {
 
 .b2 {
     width: 150px;
-    height: 30px;
+    height: 45px;
 
     background-color: darkorange;
     border-radius: 6px;
@@ -66,6 +72,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     font-size: 8px;
+    font-size: 11px;
     
 }
 
@@ -91,7 +98,7 @@ body {
 }
 .CHIPI{
     width: 150px;
-    height: 30px;
+    height: 50px;
 
     background-color: darkorange;
     border-radius: 6px;
@@ -103,4 +110,13 @@ body {
     font-size: 16px;
     font-weight: 600;
     font-size: 8px;
+    font-size: 10px;
+}
+.mibombo{
+    text-align: center;
+    margin: 0%;
+    font-size: 30PX;
+}
+.puma{
+    margin-top: 650px;
 }
