@@ -22,7 +22,16 @@ font-size: 30px;
 font-size: 20px;
 
 }
-.block{
+.block9{
     text-align: center;
 margin-top: 160px;
+}
+.block{
+background-color: black;
+height: 220px;
+display: flex;
+justify-content: center;
+color: azure;
+font-size: 50px;
+padding-left: 244px;
 }
