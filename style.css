@@ -97,6 +97,7 @@ box-shadow: 0px 0px 74px 0px #27110A29;
     margin: auto;
     gap:20px;
 
+
 }
 
     .callback-button{
@@ -170,4 +171,49 @@ border:none;
     font-size: 32px;
    
 
+}
+.Block{
+    width: 1366px;
+    height: 526px;
+    background-color: rgb(110, 48, 60);
+    display: flex;
+      flex-direction: column;
+
+
+}
+.title{
+    width: 958px;
+    height: 112px;
+    font-weight: 900;
+    margin: auto;
+     text-align: center;
+      text-align: center;
+      flex-direction: column;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 59px;
+}
+.remmers{
+    width: 214px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.sadolin{
+    width: 154px;
+    height: 83px;
+}
+.pinotex{
+    width: 138px;
+    height: 110px;
+
+}
+.adler{
+    width: 230px;
+    height: 80px;
 }
