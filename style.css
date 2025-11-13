@@ -20,18 +20,52 @@ font-size: 30px;
      width: 200px;
      height: 46px;
 font-size: 20px;
+display: flex;
 
 }
 .block9{
     text-align: center;
 margin-top: 160px;
+display: flex;
 }
 .block{
 background-color: black;
-height: 220px;
+height: 320px;
 display: flex;
 justify-content: center;
 color: azure;
 font-size: 50px;
 padding-left: 244px;
+}
+.exp-left{
+color: #C17024;
+font-size: 100px;
+font-weight: 900;
+display: flex
+
+
+}
+.exp-eright{
+    font-size: 40px;}
+.minibox1{
+display: flex;
+justify-content:center;
+align-items: center;
+}
+.minibox2{
+    display: flex;
+justify-content:center;
+align-items: center;
+}
+.minibox3{
+    display: flex;
+justify-content:center;
+align-items: center;
+}
+.exp{
+    display: flex;
+    gap: 200px;
+}
+.minibox{
+    display: flex;
 }
