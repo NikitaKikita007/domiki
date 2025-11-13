@@ -28,6 +28,7 @@ body {
 
     border-radius: 6PX;
     font-size: larger;
+    padding-left: 30px;
 }
 
 .BOX2 {
@@ -45,25 +46,30 @@ body {
 }
 
 .f22 {
-    width: 330px;
+    width: 295px;
     height: 100px;
     margin-left: 5px;
+    margin-top: 40px;
+    border-radius: px;
+
 }
 
 .f35 {
-    width: 330px;
+    width: 295px;
     height: 25px;
 
     gap: 100px;
     margin-left: 5px;
+    margin-top: 25px;
+    border-radius: px;
 }
 
 .b2 {
     width: 150px;
-    height: 45px;
+    height: 30px;
 
     background-color: darkorange;
-    border-radius: 6px;
+    border-radius: 2px;
     margin-left: 5px;
     background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
     padding: 13px 32px;
@@ -72,7 +78,8 @@ body {
     font-size: 16px;
     font-weight: 600;
     font-size: 8px;
-    font-size: 11px;
+    margin-top: 20px;
+    
     
 }
 
@@ -82,11 +89,12 @@ body {
 
 .BOX2 {
     margin-top: 120px;
+    padding-left: 25px;
 }
 
-.vip {
-    margin-left: 20px;
-    font-size: 20px;
+.text {
+    
+    font-size: 17px;
 }
 .c{
     justify-content: center;
@@ -94,14 +102,15 @@ body {
     margin-top: -75px;
 }
 .z{
-    margin-top: 200px;
+    margin-top: 100px;
+    font-size: 30px;
 }
 .CHIPI{
     width: 150px;
-    height: 50px;
+    height: 30px;
 
     background-color: darkorange;
-    border-radius: 6px;
+    border-radius: 2px;
     margin-left: 5px;
     background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
     padding: 13px 32px;
@@ -110,7 +119,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     font-size: 8px;
-    font-size: 10px;
+    margin-top: 14px;
 }
 .mibombo{
     text-align: center;
@@ -119,4 +128,24 @@ body {
 }
 .puma{
     margin-top: 650px;
+}
+.chps{
+    margin-left: 24px;
+    color: orange;
+}
+.vin{
+    margin-top: 5px;
+
+}
+.gif{
+    margin-top: 15px;
+}
+.vigr{
+    margin-top: 30px;
+}
+.vip{
+    margin-top: 25px;
+}
+.vid{
+    margin-top: 23px;
 }
