@@ -4,8 +4,7 @@ body{
 }
 .kartinka{
 display: flex;
-width: 1800px;
-height: 1000px;
+max-width: 1366px;
 justify-content: center;
 flex-wrap: wrap;
 margin: auto;
@@ -13,13 +12,13 @@ gap: 2px;
 }
 .text{
  text-align: center;
-font-size: 30px;
+font-size: 50px;
 }
 .block1{
     background: linear-gradient(180deg, #FFDC83 0%, #FBD26A 25%, #C17024 84.9%, #E3A548 100%);
-     width: 200px;
-     height: 46px;
-font-size: 20px;
+     width: 400px;
+     height: 96px;
+font-size: 50px;
 display: flex;
 
 }
@@ -27,10 +26,12 @@ display: flex;
     text-align: center;
 margin-top: 160px;
 display: flex;
+justify-content: center;
+
 }
 .block{
 background-color: black;
-height: 320px;
+max-width: 1366px;
 display: flex;
 justify-content: center;
 color: azure;
@@ -39,14 +40,14 @@ padding-left: 244px;
 }
 .exp-left{
 color: #C17024;
-font-size: 100px;
+font-size: 64px;
 font-weight: 900;
 display: flex
 
 
 }
 .exp-eright{
-    font-size: 40px;}
+    font-size: 18px;}
 .minibox1{
 display: flex;
 justify-content:center;
@@ -64,7 +65,7 @@ align-items: center;
 }
 .exp{
     display: flex;
-    gap: 200px;
+    gap: 400px;
 }
 .minibox{
     display: flex;
